@@ -1,0 +1,14 @@
+[
+  {
+    "selector": "button",
+    "query": "START"
+  },
+  {
+    "selector": "label",
+    "query": "John Smith"
+  },
+  {
+    "selector": "label",
+    "query": "Jane Doe"
+  }
+]
