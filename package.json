@@ -11,7 +11,7 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "puppeteer": "^23.4.0",
+    "puppeteer": "^23.4.1",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.6.2"
